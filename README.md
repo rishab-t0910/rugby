@@ -1,4 +1,4 @@
-**6th March**
+**6th March 2024**
 
 I have run the random forest and have my foundation ready. From manual analysis, we see that different oppositions need different time frames for the training and testing data, as well as different predictor variables. For example, England needs 2011, but France needs 2018. 
 
